@@ -1,11 +1,11 @@
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<p align="center">
+Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=alvin96&show_icons=true&theme=dark" alt="my github stats" width="420"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvin96&layout=compact&theme=dark" alt="languages" height="165">
 </p>
 
-<div align="center">
+<div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
