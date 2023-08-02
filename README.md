@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm alvin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
  <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvin96/alvin96/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvin96/alvin96/snk/github-contribution-grid-snake-custom.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvin96/alvin96/snk/github-contribution-grid-snake.svg">
  
   <img alt="snk" src="https://raw.githubusercontent.com/alvin96/alvin96/snk/github-contribution-grid-snake.svg">
